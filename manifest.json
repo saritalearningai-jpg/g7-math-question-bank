@@ -1,0 +1,24 @@
+{
+  "last_run": "2026-05-09",
+  "downloaded_pdfs": [
+    "mcas_2025_g7.pdf",
+    "mcas_2024_g7.pdf",
+    "mcas_2023_g7.pdf",
+    "mcas_practice_g7.pdf",
+    "fast_g7_key.pdf",
+    "staar_2022_g7_test.pdf",
+    "staar_2022_g7_key.pdf",
+    "staar_2025_g7_rationale.pdf"
+  ],
+  "processed_txt": [
+    "mcas_2025_g7.txt",
+    "mcas_2024_g7.txt",
+    "mcas_2023_g7.txt",
+    "mcas_practice_g7.txt",
+    "fast_g7_key.txt",
+    "staar_2022_g7_test.txt",
+    "staar_2022_g7_key.txt",
+    "staar_2025_g7_rationale.txt"
+  ],
+  "question_count": 121
+}

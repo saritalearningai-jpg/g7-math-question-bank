@@ -1,0 +1,17 @@
+# Downloaded PDFs (large, re-downloadable from source URLs)
+pdfs/
+
+# Extracted text files (generated from PDFs by pipeline)
+txt/
+
+# Pipeline run logs (generated automatically)
+logs/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS
+.DS_Store
+Thumbs.db
